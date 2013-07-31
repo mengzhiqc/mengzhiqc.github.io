@@ -4,7 +4,7 @@
   <title><![CDATA[Tech Pool]]></title>
   <link href="http://mengzhiqc.github.io/atom.xml" rel="self"/>
   <link href="http://mengzhiqc.github.io/"/>
-  <updated>2013-07-31T09:19:23+08:00</updated>
+  <updated>2013-07-31T14:11:33+08:00</updated>
   <id>http://mengzhiqc.github.io/</id>
   <author>
     <name><![CDATA[KavinDream]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Data Persuasion]]></title>
+    <link href="http://mengzhiqc.github.io/blog/2013/07/31/data-persuasion/"/>
+    <updated>2013-07-31T13:59:00+08:00</updated>
+    <id>http://mengzhiqc.github.io/blog/2013/07/31/data-persuasion</id>
+    <content type="html"><![CDATA[<p>We always make decision everyday, some are correct, and some are wrong. It is strange that when we encount a result that benefit for us, we think it is right , even though lacking evidences. why?</p>
+
+<p>Yestoday i describe a issue that i make wrong decision. If I respect the data from BI department, I will find the trick earlier. so, from now on, according to data, not just deciding with feeling.</p>
+
+<p>Improving our &ldquo;Data Persuasion&rdquo;, it is import!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A Road For Me - My First Blog]]></title>
