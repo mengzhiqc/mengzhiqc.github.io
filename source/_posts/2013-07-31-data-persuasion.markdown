@@ -3,7 +3,7 @@ layout: post
 title: "Data Persuasion"
 date: 2013-07-31 13:59
 comments: true
-categories:Life 
+categories: Life 
 ---
 We always make decision everyday, some are correct, and some are wrong. It is strange that when we encount a result that benefit for us, we think it is right , even though lacking evidences. why?
 
