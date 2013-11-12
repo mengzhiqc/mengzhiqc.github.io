@@ -4,7 +4,7 @@
   <title><![CDATA[Tech Pool]]></title>
   <link href="http://mengzhiqc.github.io/atom.xml" rel="self"/>
   <link href="http://mengzhiqc.github.io/"/>
-  <updated>2013-11-12T10:40:41+08:00</updated>
+  <updated>2013-11-12T10:49:21+08:00</updated>
   <id>http://mengzhiqc.github.io/</id>
   <author>
     <name><![CDATA[KavinDream]]></name>
@@ -18,23 +18,33 @@
     <link href="http://mengzhiqc.github.io/blog/2013/11/12/angelhack-day/"/>
     <updated>2013-11-12T10:25:00+08:00</updated>
     <id>http://mengzhiqc.github.io/blog/2013/11/12/angelhack-day</id>
-    <content type="html"><![CDATA[<h3>Two Wonderful Days</h3>
+    <content type="html"><![CDATA[<pre>
+    http://snacks.dreambuff.com
+    The Entrance Of Your Mobile Web App. Here Your Go!
+</pre>
 
-<p>Last Satuday, I join a hackthon in IKC with my friends wov. Why I attend this activity? Maybe lacking practice of program makes me feel unset.</p>
 
-<p>We met another friend, a graduate from DongNan Univercity, a very nice boy.  we plan to start a project based on HTML5. This project provide an entrance of Web App. As we all know, web app become more and more popular in china , Almost all componies begin to pay more attentions to it, that&rsquo;s great!</p>
+<h4>Two Wonderful Days</h4>
 
-<h3>Division of labor</h3>
+<pre><code>Last Satuday, I join a hackthon in IKC with my friends wov. Why I attend this activity? Maybe lacking practice of program makes me feel unset. 
 
-<p>I used to write backend services before, so zjh and I were in charge of writing backend program. wov is good at frontend program, that&rsquo;s his job. the backend program&rsquo;s main language is nodejs, A javascript framework base on commonjs. OK, we were programing as this &hellip;</p>
+We met another friend, a graduate from DongNan Univercity, a very nice boy.  we plan to start a project based on HTML5. This project provide an entrance of Web App. As we all know, web app become more and more popular in china , Almost all componies begin to pay more attentions to it, that's great!
+</code></pre>
 
-<h3>Episode before end</h3>
+<h4>Division of labor</h4>
 
-<p>There will be half an hour before the end. After merging an code writen by wov, the picture can&rsquo;t present correctly . that&rsquo;s not an good news, we must fix this bug. fortunately, we fix this bug at last.</p>
+<pre><code>I used to write backend services before, so zjh and I were in charge of writing backend program. wov is good at frontend program, that's his job. the backend program's main language is nodejs, A javascript framework base on commonjs. OK, we were programing as this ...
+</code></pre>
 
-<h3>Write at the end</h3>
+<h4>Episode before end</h4>
 
-<p>This activity is very meaningful, we met a new friend. we can complete a project in two days. if our passing is existed, the sky will be always blue.</p>
+<pre><code>There will be half an hour before the end. After merging an code writen by wov, the picture can't present correctly . that's not an good news, we must fix this bug. fortunately, we fix this bug at last.
+</code></pre>
+
+<h4>Write at the end</h4>
+
+<pre><code>This activity is very meaningful, we met a new friend. we can complete a project in two days. if our passing is existed, the sky will be always blue.
+</code></pre>
 ]]></content>
   </entry>
   
