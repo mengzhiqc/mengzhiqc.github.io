@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Life | Tech Pool]]></title>
   <link href="http://mengzhiqc.github.io/blog/categories/life/atom.xml" rel="self"/>
   <link href="http://mengzhiqc.github.io/"/>
-  <updated>2013-11-18T10:36:48+08:00</updated>
+  <updated>2013-11-20T00:43:17+08:00</updated>
   <id>http://mengzhiqc.github.io/</id>
   <author>
     <name><![CDATA[KavinDream]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Convert Project From Node To Flask]]></title>
+    <link href="http://mengzhiqc.github.io/blog/2013/11/20/convert-project-from-node-to-flask/"/>
+    <updated>2013-11-20T00:33:00+08:00</updated>
+    <id>http://mengzhiqc.github.io/blog/2013/11/20/convert-project-from-node-to-flask</id>
+    <content type="html"><![CDATA[<p>The weekend before last weekend, our hackthon project &ndash; snack has completed with node js. our teammate want to publish this project online, so we plan to rewrite this nodejs project.</p>
+
+<p>Python become my primary language, I preferred to it, I begin rewrite the whole backend code yestoday night. until now, I have completed this rewrite issue finally, Flask framework is very convenient.</p>
+
+<p>Keep interesting in program, I&rsquo;m Programer even thought I become a manager this Jan. We can do amazing things, Believe ourselves!!!!!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[AngelHack Day]]></title>
@@ -83,17 +96,6 @@ Thanks for this chance, if i was elected finally, i will do my best to become a 
 <p>I know I am not a developer at the moment, I&rsquo;m a manager, if my leader give me a work, I can do it well, more than they expect, that&rsquo;s good feel.</p>
 
 <p>Choice between &ldquo;do things right&rdquo; and &ldquo;do right thing&rdquo;, maybe i needn&rsquo;t to choose, they can both exist, doing things right is the base ability of a manager, more than this, we should do right thing and lead the team to the right direction.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hot Day, Passion Release]]></title>
-    <link href="http://mengzhiqc.github.io/blog/2013/08/01/hot-day-passion-release/"/>
-    <updated>2013-08-01T08:50:00+08:00</updated>
-    <id>http://mengzhiqc.github.io/blog/2013/08/01/hot-day-passion-release</id>
-    <content type="html"><![CDATA[<p>The temperature is above 35 centidegrees for about a week, Many people have no energy to do what they should do, No passion, feel exhausting&hellip;</p>
-
-<p>I&rsquo;ll not do like this. Release my Passion, in this hot day. Too many excited things i wanna face .</p>
 ]]></content>
   </entry>
   
