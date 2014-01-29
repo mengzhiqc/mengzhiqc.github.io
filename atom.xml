@@ -4,7 +4,7 @@
   <title><![CDATA[Tech Pool]]></title>
   <link href="http://mengzhiqc.github.io/atom.xml" rel="self"/>
   <link href="http://mengzhiqc.github.io/"/>
-  <updated>2013-11-20T00:43:17+08:00</updated>
+  <updated>2014-01-29T22:07:53+08:00</updated>
   <id>http://mengzhiqc.github.io/</id>
   <author>
     <name><![CDATA[KavinDream]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Happy New Year]]></title>
+    <link href="http://mengzhiqc.github.io/blog/2014/01/29/happy-new-year/"/>
+    <updated>2014-01-29T21:48:00+08:00</updated>
+    <id>http://mengzhiqc.github.io/blog/2014/01/29/happy-new-year</id>
+    <content type="html"><![CDATA[<h1>Greetings</h1>
+
+<p>Happy New Year, My friends. The year of snake have been past, the year of horse come to us. Thanks to you, cause you are the stength of my growing.</p>
+
+<h1>Recall</h1>
+
+<p>To be honest, I have hesitated in the last year. May be, I don&rsquo;t know what i wanna go. My current work is managing our iOS Team. The situation is that I came from a website team and not familiar to technolgy of iOS. In my daily work, I spend more than 80% in our bussiness, like coordinating meeting of different departments. It is not technology it self, I found I were Project Manager more than a iOS tech leader. that makes me awesome and upset. What can i do and what i can be.</p>
+
+<p>Fortunitly, I stopped my steps and considered what i have done, put more attention in technologies should be important, then, I bought some books and spent my time to watch the related totuar documents. Now, I feel good.</p>
+
+<p>Chances are prepared for mans who are ready for it, I don&rsquo;t want to be a loser, so i should put myself in a bowl full of hot water. I need try my best to learn both in tech and the manage.</p>
+
+<h1>Home</h1>
+
+<p>Lay on the bed in home, enjoying the relax. talk with mom and dad, that&rsquo;s great, wishes all of you happiness.</p>
+
+<p>Best Wishes.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Convert Project From Node To Flask]]></title>
